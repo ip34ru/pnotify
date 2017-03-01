@@ -2,6 +2,7 @@
     "name": "pnotify",
     "version": "3.0.0",
     "main": "dist/pnotify.js",
+    "style": "dist/pnotify.css",
     "repository": {
         "type": "git",
         "url": "https://github.com/sciactive/pnotify.git"
